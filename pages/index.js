@@ -1,4 +1,3 @@
-import Image from "next/image";
 import { Inter } from "next/font/google";
 import MainForm from "../components/MainForm";
 import RecordedVins from "../components/RecordedVins";
